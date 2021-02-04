@@ -21,7 +21,7 @@ npm install
 ### Start the local dev server
 
 ```
-npm run dev
+
 ```
 
 
