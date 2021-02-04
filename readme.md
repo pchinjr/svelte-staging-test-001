@@ -18,8 +18,6 @@ Deploy your own clone of this app to Begin!
 npm install
 ```
 
-### Start the local dev server
-
 
 
 
