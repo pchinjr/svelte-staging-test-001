@@ -26,7 +26,5 @@ npm run dev
 
 Navigate to [localhost:3333](http://localhost:3333). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
 
-## Begin Reference
-
 
 
